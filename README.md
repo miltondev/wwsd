@@ -156,10 +156,10 @@ It is possible to render lots of data quicker with canvas than SVG, but it is le
 **[13) Rendering with d3 + Canvas](https://github.com/enjalot/wwsd/issues/13)**  
 [<img src="img/example13.png">](https://github.com/enjalot/wwsd/issues/13)
 
-**[14) Zooming with Canvas](https://github.com/enjalot/wwsd/issues/13)**  
+**[14) Zooming with Canvas](https://github.com/enjalot/wwsd/issues/14)**  
 [<img src="img/example14.png">](https://github.com/enjalot/wwsd/issues/14)
 
-**[15) Mapbox-gl Canvas Overlay](https://github.com/enjalot/wwsd/issues/13)**  
+**[15) Mapbox-gl Canvas Overlay](https://github.com/enjalot/wwsd/issues/15)**  
 [<img src="img/example15.png">](https://github.com/enjalot/wwsd/issues/15)
 
 ## turf.js
