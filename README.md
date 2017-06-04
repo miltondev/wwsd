@@ -70,6 +70,9 @@ before the workshop.  It's a concise overview and a great reference.
 **[4) Basic styling & interaction](https://github.com/enjalot/wwsd/issues/4)**  
 [<img src="img/example04.png">](https://github.com/enjalot/wwsd/issues/4)
 
+**[4b) Comparing MapboxGL markers vs Leaflet markers](https://github.com/enjalot/wwsd/issues/4)**  
+[<img src="https://gist.githubusercontent.com/almccon/ad6c2a4bac17e7b2ae49decf4a91fff7/raw/8ac2a0a7ef6041a9af02991fafe2a57b4e0459bf/thumbnail.png">](https://bl.ocks.org/almccon/ad6c2a4bac17e7b2ae49decf4a91fff7)
+
 
 # Act II: d3.js
 _Data driven_  
