@@ -5,7 +5,9 @@
 ## Introduction
 
 This workshop is designed to be very hands-on, with many examples that can be
-extended as exercises. It would be impossible to touch everything that we could
+extended as exercises. This class is part of a pair with [Designing With Spatial Data](https://github.com/stamen/dwsd). Usually, we teach Working With Spatial Data second, but you can take the classes in either order.
+
+It would be impossible to touch everything that we could
 find [interesting in web mapping](https://hi.stamen.com/an-ode-to-d3-js-projections-9d6477d6da0b#.1hr10rltk),
 so the hope is that after going through these three acts you will feel empowered
 to swap in your own data and leverage [hundreds of examples](http://blockbuilder.org/search#api=d3.geo.path) in your own data visualization projects!
